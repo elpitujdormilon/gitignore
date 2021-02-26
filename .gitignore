@@ -1,7 +1,7 @@
 #los comentarios empiezan con hash
 
 #aqui se ignora un solo archivo
-another-file.txt
+new-file.txt
 
 #aqui se ignora todo un directorio
 bin/
