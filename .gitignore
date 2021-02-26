@@ -1,3 +1,10 @@
+#los comentarios empiezan con hash
+
+#aqui se ignora un solo archivo
 new-file.txt
 
+#aqui se ignora todo un directorio
 bin/
+
+#aqui se ignora todos los archivos con determinada extension
+*.tmp
